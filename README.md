@@ -1,6 +1,6 @@
 - Hi, I’m @DaboinCJ
 -I'm a venezuelan economist working on industrial development, labor, and urban economics. I love learning about machine learning, causal inference, and social network analysis.
-- I’m looking to collaborate on interest data analysis projects
+- I’m looking to collaborate on interesting data analysis projects. 
 - 📫 You can reach me via cdaboin2@gmail.com
 
 <!---
